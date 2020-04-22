@@ -97,9 +97,10 @@ export const Issues = styled.div`
     div {
       margin: 0 16px;
       flex: 1;
+
       strong {
         font-size: 20px;
-        color: #3d3d4d;
+        color: #111111;
       }
       p {
         font-size: 18px;
