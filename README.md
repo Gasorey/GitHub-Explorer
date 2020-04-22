@@ -1,6 +1,4 @@
 ![GithubGif](Github-explorer.gif)
-
-
 # GitHub-Explorer
 Projeto desenvolvido para praticar os conceitos de reactJS consumindo a API do Github
 <h2>Objetivos</h2>
@@ -9,7 +7,7 @@ Projeto desenvolvido para praticar os conceitos de reactJS consumindo a API do G
   e issues abertas, uma listagem de todas as issues que direciona o usuário a página dela.
 </p>
 <h2>Estrutura do projeto</h2>
-![](Estrutura-GitExplorer.png)
+![Estrutura do projeto](Estrutura-Git.jpg)
 <h2>Técnologias</h2>
 <ul>
   <li>TypeScript</li>
